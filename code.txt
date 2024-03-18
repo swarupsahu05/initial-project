@@ -2,3 +2,4 @@ We are going to try Github.
 
 git init : First time only in that folder 
 
+git add . : For adding all the files in the folder
